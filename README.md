@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-I'm **Paulo de Tasso**, a passionate software engineer and computer scientist from Brazil. I'm currently building [**debita.ai**](https://debita.ai), a modern platform for **payment management and automated billing**. I'm always working on **scalable systems**, **APIs**, and crafting seamless **user experiences** with modern **frontend and backend stacks**.
+I'm **Paulo de Tasso**, a passionate software engineer and computer scientist from Brazil. Now living in China, I'm currently building [**debita.ai**](https://debita.ai), a modern platform for **payment management and automated billing**. I'm always working on **scalable systems**, **APIs**, and crafting seamless **user experiences** with modern **frontend and backend stacks**.
 
 ### 🧠 Tech Stack
 
